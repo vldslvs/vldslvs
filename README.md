@@ -1,6 +1,8 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Minsk . BY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlddlv&label=vldslv&color=caf0fe&style=flat-square" alt="vlddlv" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vlddlv" alt="vlddlv" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/multyvlad" target="blank"><img src="https://img.shields.io/twitter/follow/multyvlad?logo=twitter&style=for-the-badge" alt="multyvlad" /></a> </p>
 
@@ -18,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vlddlv&show_icons=true&locale=en" alt="vlddlv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlddlv&theme=dark" alt="vlddlv" /></p>
+
